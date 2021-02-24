@@ -2,7 +2,7 @@
 
 ## Installation
 
-Erst username, password und URL der Graphdatenbank in  `flask-api/.env`  konfigurieren. 
+Erst username, password und URL der Graphdatenbank in  `.env`  konfigurieren. 
 
 Dann folgendes ausführen:
 

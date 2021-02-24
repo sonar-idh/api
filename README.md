@@ -22,8 +22,8 @@ weitere Details s. bei [neo4j-movies-template](https://github.com/neo4j-examples
 - Entitäten oder Relationen nach Namen suchen (Volltextsuche)
 - Personennetzwerke suchen
 - Statistik ausgeben
-- Daten nach Id exportieren
+- Daten exportieren (draft)
 
-Ausgaben s. in [Swagger-Dokumentation](LINK)
-## Swagger-Dokumentation
-## Jupyter-Beispiel
+Ausgaben s. in unten, in Swagger-Dokumentation.
+## [Swagger-Dokumentation](https://github.com/sonar-idh/api/blob/main/SoNAR%20API%20Demo%20Swagger%20UI.pdf)
+## [Jupyter-Beispiel](https://github.com/sonar-idh/api/blob/main/Jupyter%20example.ipynb)
